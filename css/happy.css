@@ -1,0 +1,10 @@
+.happy .eyes {
+}
+
+.happy .eyes::before,
+.happy .eyes::after {
+  width: 150px;
+  height: 75px;
+  border-radius: 5rem 5rem 0 0;
+  transition: all .1s ease-in-out;
+}
